@@ -7,94 +7,128 @@ include_in_header: false
 
 # Privacy Policy
 
-「21 days speak」 respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself (except for cookies and pixel tags, as provided in this privacy policy). When we do need your personal information to provide services that you request or when you choose to use our application, an AI tool built to help you achieve English fluency (the “App” or the “Services”), or provide us with your personal information, for example when you decide to contact us for additional information, this policy describes how we collect and use your personal information.
+**Last Updated: 2025**
 
-The entity responsible for the processing of your personal data is Hangzhou Xinglu Network Information Technology Co., Ltd referred to as 「21 days speak」, “our”, “we” or “us” in this privacy policy.
 
-Depending on your interaction with us, we collect two types of data:
 
-"Non-Personal Data" meaning, information which does not identify a specific natural person and cannot reasonably be used for such identification. We collect Non-Personal Data during your interaction with us, such as your date and times of interaction, means of communications, whether you have engaged with emails we sent you, etc. This data is considered as Non-Personal Data when collected on an aggregate or statistical basis, or otherwise not combined with online identifiers.
+Hangzhou Xinglu Network Information Technology Co., Ltd (“we”) has developed our products and services. This privacy policy explains how we collect, use and share data through our products and services and we refer to these together as the “Apps”. We reserve the right to and may change this Privacy Policy from time to time. If we make any material changes, we will notify you through the Apps, or by presenting you with a new version of this Privacy Policy for you to accept, if we, for example, add new processing activities or collect some additional Personal Data from you. Please also periodically check back for updates. You can see the last updated date for this Privacy Policy at the bottom of the policy. We provide you with this Privacy Policy to make our users aware of the steps we take to ensure the security of their data when utilizing the Apps. This policy describes the types of information we collect when you use the Apps, how we use and protect that information, how long we retain it, and with whom we share it. It also explains what your rights and options are as they pertain to privacy. By using the Apps, you consent to our collection and use of your information as described in this Privacy Policy.
 
-Non-Personal Data may be used by us without limitation and for any purpose, including for commercial, research, or statistical purposes, in order to maintain and develop our website, App and Services including among others, to help prevent frauds, etc.
+### Information We Collect
 
-“Personal information” means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, a home, postal or other physical address, other contact information, title, birth date, gender, occupation, industry, personal interests, and other information required in order to provide a product or service you requested.
+We collect the following types of information when you use the application:
 
-We use the Personal Information we collect from you for a range of different business purposes according to different legal bases of processing. We may use or process your personal information for the following purposes. One or more legal bases may apply simultaneously.
+(a) Information You Provide Directly
 
-##### Information for providing you with Services
+When you create an account, we collect your email address and username to authenticate and personalize your experience.
 
-We may collect and store Personal Information such as name, address, email address, telephone number, gender, birth date, and other contact information in order to provide you with Services. We may also collect and store Personal Information regarding your usage of the App, for example, the information you provide during a lesson offered by the App, the transcript of the lessons, and your voice recording during the conversation.
+When you upload or record audio files, we process and store this content to provide our core separation and analysis features.
 
-The basis for our collection of data is the need to carry out the above processing of information, as part of the performance of existing engagements with you.
+If you purchase premium features, we collect payment information through secure third-party processors (e.g., Apple Pay).
 
-##### Information for Customer Support and Inquiries
 
-We may collect and store Personal Information, such as name, address, email address, telephone number and contact information, when you submit inquiries or requests with respect to our App and Services. We will use such information to contact you only for the purposes for which you sent the inquiry.
 
-The basis for collection of data is the need to carry out the above processing of information for performance of existing engagements with you and our legitimate interest to conduct an effective interaction with our users which are customers and/or potential customers.
+(b) Usage and Technical Data
 
-Information for the maintenance and Improvement of our website, App, and Services
+We automatically collect your device's Internet Protocol (IP) address, device type (e.g., iPhone 14), iOS version, and mobile browser type to optimize app performance.
 
-We may also use your Personal Information, such as personal information regarding your usage of the App, as web server logs, IP addresses, cookies, local storage tools, pixel tags, web beacons when you send us inquiries regarding our App, Services or when you browse the website, in order to administrate and improve the App, website, or our Services, for our internal records and for statistical analysis, as set forth in this Policy.
+When you use the application, we log which features you access (e.g., stem separation, chord detection), processing duration, and interaction patterns to improve our services.
 
-We also use data provided by you, including conversation data, to retrain and enhance the App’s algorithms.
+Diagnostic data such as crash reports and performance metrics help us identify and resolve technical issues.
 
-The basis for collection of data is the need to carry out the above processing of information for our legitimate interest to conduct such improvements and analysis, as well as for the performance of our contract with you.
 
-#### Information for Marketing and Promotional Purposes
 
-In the event you sign up to receive our newsletter or other promotional materials, or where we are permitted to do so under applicable law, we will process your contact details, such as email address, for sending you news, notices, newsletters and updates regarding our Services. In line with the GDPR we will always give you the opportunity to opt in to our mailing list and without your explicit consent we will not add you to our mailing list to receive direct marketing or market research information Our lawful basis for the processing of this data is our legitimate interests, or, in certain cases your consent.
+(c) Audio Processing Data
 
-You may withdraw your consent at any time by clicking the “unsubscribe” link which will be included in the email we will send you. You may also contact us through the below means of contact and request to unsubscribe.
+For every audio file you process, we extract metadata including duration, sample rate, and file format to enable accurate analysis.
 
-##### Cookies, pixels and web beacons
+The AI generates and temporarily stores derived data (isolated stems, detected chords, beat maps) to deliver your requested results.
 
-The website and the App may also collect cookies, pixels, web beacons and other similar information collected through application tracker and analytics tools.
 
-We use such information to assist us in securing your use of the App and to enhance the performance of our website, App and Services. Cookies are small text files sent from the server to your device. Cookies used by us do not contain personal information nor do they contain account or password information. They merely allow the App and the website to recognize that a page request comes from someone who has already logged on.
 
-We may share website and App usage information with reputable advertising companies for targeting our banner advertisements on our website,  App and other websites and Apps. For this purpose, pixel tags (also called clear gifs or web beacons) may be used to note the pages you have visited. The information collected by the advertising company through the use of these pixel tags is not personally identifiable.
+(d) Mobile-Specific Data
 
-If you wish to block cookies, you may do so through your browser’s and application settings. You can delete cookies that are already on your computer or local storage, and you can set your browser to prevent them from being placed going forward. However, please bear in mind that disabling cookies or local storage may adversely affect your user experience of the Service.
+If you access the application via our iOS app, we collect your device's unique identifier, operating system version, and network information to ensure compatibility.
 
-##### Information sharing and disclosure
+We record timestamps of your sessions and feature usage frequency to understand engagement patterns.
 
-Your personal information may be shared with other 「21 days speak」 offices or subsidiaries around the world. All such entities are governed by this Privacy Policy or are bound by the appropriate confidentiality and data transfer agreements.
+### Use of Your Personal Data
 
-「21 days speak」 may share your personal information with other companies or people under any of the following circumstances:
+We processes your personal data to provide, improve, and secure the app's service, as well as to fulfill legal obligations and business needs. Specifically, we use your information for the following purposes:
 
-1. When we have your consent to share the information;
-2. We need to send the information to third parties who provide services to 「21 days speak」 (such as speech recognition or speech-to-text technology), or work on behalf of 「21 days speak」 to provide you with certain customer service (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose);
-3. In the event of sale or transfer of all or substantially all of 「21 days speak」 or any 「21 days speak」 affiliate’s shares or assets, in cases of mergers or in case of negotiations with respect to the foregoing;
-4. Where needed for corporate audits or to investigate or respond to a complaint or security threat, to prevent illegal uses of our services, to defend ourselves against third party claims and assist in fraud prevention or investigation; or
-5. We will also disclose your personal information if required to do so by law, or in urgent circumstances, to protect personal safety, the public or our business.
+Service Provision & Account Management: To authenticate your account, enable app functionalities (e.g., audio processing, chord detection), and monitor service usage for performance optimization.
 
-We will not sell or otherwise transfer the personally identifiable information you provide to us at our App or website to any third parties for their own direct marketing use unless we provide clear notice to you and obtain your explicit consent for your data to be shared in this manner, when required by applicable law.
+Contractual Obligations: To execute purchases of premium features, process subscriptions, and enforce our Terms of Service.
 
-For the above purposes, personal information may be transferred to recipients in countries around the world (which may be located outside the EU/EEA) which in some cases may have a lower level of protection than that within the EU/EEA. When transferring personal data to countries outside the EU/EEA, to jurisdictions that did not receive an adequacy decision or other safe harbor mechanism by the European Commission, we use standard contractual clauses approved by the European Commission to ensure a sufficient level of protection for your personal information. 
+Communication: To send you essential notifications (e.g., security updates, feature changes) via email, in-app alerts, or SMS. With your consent, we may also share promotional offers or news about similar services.
 
-##### Data Retention
+User Support: To respond to your inquiries, troubleshoot issues, and manage feature requests.
 
-「21 days speak」 stores the personal information as long as it is necessary to fulfill the purpose for which the data has been collected. This means that 「21 days speak」 deletes your personal information when such information is no longer necessary, unless we have a legitimate interest to retain such data for longer periods or are required to do so by any applicable law. Statistics which have been anonymized may be saved thereafter.
+Business Operations: For internal analytics (e.g., tracking feature popularity, crash diagnostics), service improvements, and corporate transactions (e.g., mergers, asset sales), where user data may be transferred as part of our business assets.
 
-##### Data security
+### Data Sharing Circumstances
 
-「21 days speak」 safeguards the security of the data you send us with physical, electronic, and managerial procedures, taking into consideration the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of processing your personal information. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet.
+We only share personal data under strict conditions:
 
-##### Third party sites
+Service Providers: With trusted vendors (e.g., cloud hosting, payment processors) bound by confidentiality agreements.
 
-Our App and Website may contain links to other apps and websites operated by other companies. 「21 days speak」 does not share your personal information with those apps and websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. Some of these third-party apps and sites may have permission to include the 「21 days speak」 logo, even though they are not operated or maintained by 「21 days speak」. Although we choose our business partners carefully, 「21 days speak」 is not responsible for the privacy practices of apps and websites operated by third parties that are linked to our website and App. Once you have left our website or App, you should check the applicable privacy policy of the third-party website or app to determine how they will handle any information they collect from you. We may provide services based on third party applications and content tools on 「21 days speak」’s website or App. These third parties may automatically receive certain types of information whenever you interact with us on our website or App using such third-party applications and tools, based on such third parties’ privacy statements.
+Legal Compliance: To comply with court orders, fraud investigations, or regulatory requirements.
 
-##### Changes to this privacy policy
+Business Transfers: In connection with mergers, acquisitions, or bankruptcy proceedings.
 
-「21 days speak」 will amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on 「21 days speak」’s website.
+User-Driven Sharing: When you voluntarily interact with other users (e.g., shared playlists) or consent to third-party integrations (e.g., social media).
 
-Our website and mobile application may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+We never sell your audio content or usage data to third-party advertisers.
 
-You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
+### Data Retention Policy
 
-Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
+We retain your personal information only as long as necessary to fulfill these purposes:
 
-Our contact information:
+Active Use Period: Your account data and processed audio content are maintained while you remain an active user of the app.
 
-Contact email: support@5starland.com
+Legal Requirements: We preserve certain information (e.g., payment records, consent history) to comply with tax, financial, and other regulatory obligations.
+
+Dispute Resolution: Data relevant to ongoing customer support cases or legal disputes may be retained until final resolution.
+
+
+
+Usage statistics and diagnostic information are typically stored for shorter durations. All retained data is securely isolated with restricted access. You may request early deletion of non-essential records through your account settings or by contacting our support team.
+
+### Transfer of Your Personal Data
+
+Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
+
+Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
+
+The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
+
+### Data Disclosure & Security
+
+Your personal data may be disclosed in specific circumstances: 
+
+(1) Business transfers – if the company undergoes a merger, acquisition, or asset sale, we will notify you before your data becomes subject to new policies; (2) Legal compliance – when required by law enforcement, court orders, or government requests; or (3) Protection purposes – to defend our legal rights, investigate potential misconduct, or ensure user/public safety. While we implement industry-standard security measures (including encryption and access controls), no digital system is completely immune to risks. We continuously monitor and update our protections, but cannot guarantee absolute security against unforeseen breaches. You can enhance safety by using strong passwords and enabling two-factor authentication.
+
+### Links
+
+The application may display third-party advertisements and links to external websites. Please note:
+
+These content and services operate independently from the apop, and we do not endorse or control their privacy practices.
+
+When you interact with third-party ads or links, any data you provide will be governed by their respective privacy policies, not by the app's.
+
+We recommend reviewing the privacy policies of any third-party services before engaging with them.
+
+### Privacy Policy Updates
+
+We may periodically update this Privacy Policy to reflect changes in our practices or legal requirements. When we make material changes, we will:
+
+Post the revised policy on this page with an updated "Last Revised" date
+
+Provide advance notice through in-app alerts and/or email (for significant changes)
+
+
+
+We encourage you to periodically review this policy to stay informed about how we protect your information. All updates become effective immediately upon posting unless otherwise stated.
+
+### Contact Us
+
+Questions If you have any additional questions or concerns about this policy, please contact us at support@5starland.com.
